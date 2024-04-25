@@ -1,5 +1,8 @@
 # Monitor new solana tokens in realtime
 
+**node version**:
+18.17.0
+
 This codebase is a demonstration of how to monitor new solana tokens using typescript language and solana rpc methods. By default the script listens for new raydium liquidity pool transactions, extracts the necessary information for additional use, and stores it.
 
 **disclaimer**: Use this code at your own risk as it is here for educational purposes, there is no guarantee of profit! DO NOT use the default solana RPC in production, instead use an RPC provider to ensure reliability, speed and effectiveness of the bot.
